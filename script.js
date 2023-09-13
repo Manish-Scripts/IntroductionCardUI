@@ -30,3 +30,13 @@ function resetPosition(){
 }
 
 resetBtn.addEventListener('click', resetPosition);
+
+// redirection for buttons
+
+function redirectGithub(){
+    window.open("https://github.com/Manish-Scripts", "_blank");
+}
+
+function redirectLinkedin(){
+    window.open("https://www.linkedin.com/in/manish-developer/", "_blank");
+}

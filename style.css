@@ -86,16 +86,11 @@ body{
     color: white;
 }
 
-.card footer button.github:hover, .card footer button.linkedin:hover, .card footer button.leetcode:hover{
+.card footer button.github:hover, .card footer button.linkedin:hover{
     color: #fff;
 }
 
 .card footer button.linkedin {
     background-color: rgb(0, 102, 254);
-    color: white;
-}
-
-.card footer button.leetcode {
-    background-color: rgb(255, 119, 0);
     color: white;
 }
