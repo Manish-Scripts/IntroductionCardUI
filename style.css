@@ -54,6 +54,7 @@ body{
 
 .card .card-body .logo img{
     max-width: 120px;
+    border-radius: 50%;
 }
 
 .card .card-body h4{
